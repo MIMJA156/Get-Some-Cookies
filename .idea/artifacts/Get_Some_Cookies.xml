@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Get-Some-Cookies">
+    <output-path>$PROJECT_DIR$/out/artifacts/Get_Some_Cookies</output-path>
+    <root id="root">
+      <element id="archive" name="Get_Some_Cookies.jar">
+        <element id="module-output" name="Get-Some-Cookies" />
+      </element>
+    </root>
+  </artifact>
+</component>
